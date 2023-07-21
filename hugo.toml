@@ -174,11 +174,11 @@ theme = "FixIt"
     # FixIt 0.2.0 | NEW Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "/icons/logo-blue.svg"
+      logo = ""
       # title name
       name = "Prolog.red"
       # you can add extra information before the name (HTML format is supported), such as icons
-      pre = ""
+      pre = "<i class='fa-solid fa-rainbow fa-lg'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       # FixIt 0.2.5 | NEW whether to use typeit animation for title name
