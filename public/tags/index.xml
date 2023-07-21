@@ -4,5 +4,29 @@
     <link>/tags/</link>
     <description>Tags - Tag - Prolog</description>
     <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>thierry.langie@skynet.be (Thierry Langie)</managingEditor>
-      <webMaster>thierry.langie@skynet.be (Thierry Langie)</webMaster><atom:link href="/tags/" rel="self" type="application/rss+xml" /></channel>
+      <webMaster>thierry.langie@skynet.be (Thierry Langie)</webMaster><lastBuildDate>Tue, 19 Jul 2022 15:38:58 &#43;0200</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>cloud</title>
+  <link>/tags/cloud/</link>
+  <pubDate>Tue, 19 Jul 2022 15:38:58 &#43;0200</pubDate>
+  <author>Thierry Langie</author>
+  <guid>/tags/cloud/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>identity</title>
+  <link>/tags/identity/</link>
+  <pubDate>Tue, 19 Jul 2022 15:38:58 &#43;0200</pubDate>
+  <author>Thierry Langie</author>
+  <guid>/tags/identity/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>okta</title>
+  <link>/tags/okta/</link>
+  <pubDate>Tue, 19 Jul 2022 15:38:58 &#43;0200</pubDate>
+  <author>Thierry Langie</author>
+  <guid>/tags/okta/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Prolog</title>
-    <link>/</link>
-    <description>This is the description of my site...</description>
+    <title>cloud - Tag - Prolog</title>
+    <link>/tags/cloud/</link>
+    <description>cloud - Tag - Prolog</description>
     <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>thierry.langie@skynet.be (Thierry Langie)</managingEditor>
-      <webMaster>thierry.langie@skynet.be (Thierry Langie)</webMaster><lastBuildDate>Tue, 19 Jul 2022 15:38:58 &#43;0200</lastBuildDate>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
+      <webMaster>thierry.langie@skynet.be (Thierry Langie)</webMaster><lastBuildDate>Tue, 19 Jul 2022 15:38:58 &#43;0200</lastBuildDate><atom:link href="/tags/cloud/" rel="self" type="application/rss+xml" /><item>
   <title>What is Okta ?</title>
   <link>/posts/what-is-okta/</link>
   <pubDate>Tue, 19 Jul 2022 15:38:58 &#43;0200</pubDate>

@@ -2,6 +2,13 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>/categories/</loc></url><url>
-      <loc>/</loc></url><url>
-      <loc>/tags/</loc></url></urlset>
+      <loc>/about/</loc><lastmod>2023-07-18T15:38:58&#43;02:00</lastmod></url><url>
+      <loc>/categories/</loc><lastmod>2022-07-19T15:38:58&#43;02:00</lastmod></url><url>
+      <loc>/tags/cloud/</loc><lastmod>2022-07-19T15:38:58&#43;02:00</lastmod></url><url>
+      <loc>/tags/identity/</loc><lastmod>2022-07-19T15:38:58&#43;02:00</lastmod></url><url>
+      <loc>/tags/okta/</loc><lastmod>2022-07-19T15:38:58&#43;02:00</lastmod></url><url>
+      <loc>/posts/</loc><lastmod>2022-07-19T15:38:58&#43;02:00</lastmod></url><url>
+      <loc>/</loc><lastmod>2022-07-19T15:38:58&#43;02:00</lastmod></url><url>
+      <loc>/categories/security/</loc><lastmod>2022-07-19T15:38:58&#43;02:00</lastmod></url><url>
+      <loc>/tags/</loc><lastmod>2022-07-19T15:38:58&#43;02:00</lastmod></url><url>
+      <loc>/posts/what-is-okta/</loc><lastmod>2022-07-19T15:38:58&#43;02:00</lastmod></url></urlset>

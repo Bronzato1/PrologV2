@@ -11,7 +11,7 @@ tags: [okta, cloud, identity]
 categories: [security]
 date: 2022-07-19T15:38:58+02:00
 toc: false
-draft: true
+draft: false
 ---
 
 Okta connects any person with any application on any device. It's an enterprise grade, identity service, built for the cloud, but compatible with many on-premises applications. With Okta, IT can manage any employee's access to any application or device. Okta runs in the cloud, on a secure, reliable, extensively audited platform, which integrates deeply with on-premises applications, directories, and identity management systems. The Okta solution was born of the unique challenges of how technology has grown and shifted in the growing diversity of devices, identity issues, security, employee mobility, vender partnership, and the exponential growth of unique application options.

@@ -2,7 +2,7 @@
 title: Avoid Azure cold start
 subtitle:
 date: 2022-06-21T10:19:40+02:00
-draft: true
+draft: false
 author:
   name: "Thierry Langie"
   link: "/about/"

@@ -2,7 +2,7 @@
 title: Advantages of coding with Blazor
 subtitle:
 date: 2022-07-21T10:21:56+02:00
-draft: true
+draft: false
 author:
   name: "Thierry Langie"
   link: "/about/"
