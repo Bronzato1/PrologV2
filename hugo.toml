@@ -174,7 +174,7 @@ theme = "FixIt"
     # FixIt 0.2.0 | NEW Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "/icon/logo-blue.svg"
+      logo = "/icons/logo-blue.svg"
       # title name
       name = "Prolog.red"
       # you can add extra information before the name (HTML format is supported), such as icons
