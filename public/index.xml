@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Prolog</title>
+    <link>/</link>
+    <description>This is the description of my site...</description>
+    <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>thierry.langie@skynet.be (Thierry Langie)</managingEditor>
+      <webMaster>thierry.langie@skynet.be (Thierry Langie)</webMaster>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
