@@ -1,0 +1,41 @@
+// ==============================
+// Custom style
+// 自定义样式
+// ==============================
+
+.text-blue {
+  color: #2376b7 !important;
+}
+
+.text-blue:hover,
+.text-blue:hover i[class^="fa-"] {
+  color: #ea517f !important;
+}
+
+.hide-icon > i {
+  display: none;
+}
+
+.floating-right {
+  float: right;
+}
+
+.footer-line  img.fixit-icon,
+.header-title img {
+  content: url("/icon/logo-black.svg")
+}
+
+.footer-line  img.fixit-icon:hover,
+.header-title img:hover {
+  content: url("/icon/logo-blue.svg")
+}
+
+[data-theme="dark"] .footer-line  img.fixit-icon,
+[data-theme="dark"] .header-title img {
+  content: url("/icon/logo-gray.svg")
+}
+
+[data-theme="dark"] .footer-line  img.fixit-icon:hover,
+[data-theme="dark"] .header-title img:hover {
+  content: url("/icon/logo-white.svg")
+}
