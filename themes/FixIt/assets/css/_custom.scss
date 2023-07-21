@@ -22,20 +22,20 @@
 
 .footer-line  img.fixit-icon,
 .header-title img {
-  content: url("../icons/logo-black.svg")
+  content: url("../../../../icons/logo-black.svg")
 }
 
 .footer-line  img.fixit-icon:hover,
 .header-title img:hover {
-  content: url("../icons/logo-blue.svg")
+  content: url("../../../../icons/logo-blue.svg")
 }
 
 [data-theme="dark"] .footer-line  img.fixit-icon,
 [data-theme="dark"] .header-title img {
-  content: url("../icons/logo-gray.svg")
+  content: url("../../../../icons/logo-gray.svg")
 }
 
 [data-theme="dark"] .footer-line  img.fixit-icon:hover,
 [data-theme="dark"] .header-title img:hover {
-  content: url("../icons/logo-white.svg")
+  content: url("../../../../icons/logo-white.svg")
 }
