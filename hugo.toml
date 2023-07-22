@@ -132,7 +132,7 @@ theme = "FixIt"
       light = "#f8f8f8"
       dark = "#252627"
 
-  # FixIt 0.2.0 | NEW Search config
+  # FixIt 0.2.0 | NEW Search config 
   [params.search]
     enable = false
     # type of search engine ["lunr", "algolia", "fuse"]
