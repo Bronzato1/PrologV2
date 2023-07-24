@@ -347,6 +347,20 @@
     }
   }
 
+  /* Added by Thierry Langie */
+  .author__read_more_link {  
+    display: inline-block;
+    text-decoration: underline;
+    text-decoration-color: transparent;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+    color: var(--heading-font-color);
+  }
+
+  .author__read_more_link:hover {
+    text-decoration-color: var(--heading-font-color);
+  }
+
   .author__posts__count {
     margin-bottom: 20px;
     font-size: 18px;
