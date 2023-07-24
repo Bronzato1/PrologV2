@@ -1,20 +1,15 @@
 ---
-author:
-  name: "Thierry Langie"
-  link: "/about/"
-  email: thierry.langie@skynet.be
-  avatar: "/images/avatar.png"
 title: "What is Okta ?"
-description: "This is the description"
-keywords: [okta, cloud, identity]
-tags: [okta, cloud, identity]
-categories: [security]
-date: 2022-07-19T15:38:58+02:00
-toc: false
-draft: false
+image: '/images/okta-splash.png'
+date: 2023-03-13T08:43:22+02:00
+authors: [thierry]
+description: Okta connects any person with any application on any device. It's an enterprise grade, identity service, built for the cloud, but compatible with many on-premises applications.
+tags: [Okta]
+featured: true
+draft: true
 ---
 
-Okta connects any person with any application on any device. It's an enterprise grade, identity service, built for the cloud, but compatible with many on-premises applications. With Okta, IT can manage any employee's access to any application or device. Okta runs in the cloud, on a secure, reliable, extensively audited platform, which integrates deeply with on-premises applications, directories, and identity management systems. The Okta solution was born of the unique challenges of how technology has grown and shifted in the growing diversity of devices, identity issues, security, employee mobility, vender partnership, and the exponential growth of unique application options.
+With Okta, IT can manage any employee's access to any application or device. Okta runs in the cloud, on a secure, reliable, extensively audited platform, which integrates deeply with on-premises applications, directories, and identity management systems. The Okta solution was born of the unique challenges of how technology has grown and shifted in the growing diversity of devices, identity issues, security, employee mobility, vender partnership, and the exponential growth of unique application options.
 
 Okta features include Provisioning, Single Sign-On (SSO), Active Directory (AD) and LDAP integration, the centralized deprovisioning of users, multifactor authentication (MFA), mobile identity management, and flexible policies for organization security and control. All of these functions are brought together through a network of pre-integrated applications called the Okta Integration Network (OIN). The OIN provides diverse integration options, enabling SSO login for every app your users need to access during their work day.
 

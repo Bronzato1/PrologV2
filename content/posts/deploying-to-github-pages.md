@@ -1,43 +1,13 @@
 ---
 title: Deploying to GitHub Pages
-subtitle:
-date: 2023-02-01T10:26:57+02:00
+image: '/images/github-repo.jpg'
+date: 2023-03-13T08:43:22+02:00
+authors: [thierry]
+description: Share your website with the world for free! GitHub is a great tool to store projects and to collaborate with others, but its usefulness does not stop there. We’ll use a service called GitHub Pages to share our web page creations on the World Wide Web.
+tags: [GitHub]
+featured: true
 draft: true
-author:
-  name: "Thierry Langie"
-  link: "/about/"
-  email: thierry.langie@skynet.be
-  avatar: "/images/avatar.png"
-description:
-keywords: [github]
-license:
-comment: false
-weight: 0
-tags:
-  - github
-categories:
-  - development
-hiddenFromHomePage: false
-hiddenFromSearch: false
-summary:
-resources:
-  - name: featured-image
-    src: featured-image.jpg
-  - name: featured-image-preview
-    src: featured-image-preview.jpg
-toc: false
-math: false
-lightgallery: false
-password:
-message:
-repost:
-  enable: false
-  url:
-
-# See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
-
-Share your website with the world for free! GitHub is a great tool to store projects and to collaborate with others, but its usefulness does not stop there. We’ll use a service called GitHub Pages to share our web page creations on the World Wide Web.
 
 ## What is GitHub Pages ?
 
