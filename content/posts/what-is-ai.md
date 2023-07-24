@@ -1,7 +1,7 @@
 ---
 title: What is AI ?
 image: '/images/ai-cpu.jpg'
-date: 2023-03-13T08:43:22+02:00
+date: 2023-06-23
 authors: [thierry]
 description: Artificial Intelligence (AI) refers to the ability of computers and machines to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. The development of AI technology has been driven by advancements in computer processing power, data storage and the availability of large datasets for training machine learning models. This has led to significant progress in various AI subfields, including computer vision, natural language processing, and robotics.
 tags: [AI]

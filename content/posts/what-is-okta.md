@@ -1,7 +1,7 @@
 ---
 title: "What is Okta ?"
 image: '/images/okta-splash.png'
-date: 2023-03-13T08:43:22+02:00
+date: 2023-07-08
 authors: [thierry]
 description: Okta connects any person with any application on any device. It's an enterprise grade, identity service, built for the cloud, but compatible with many on-premises applications.
 tags: [Okta]

@@ -1,11 +1,11 @@
 ---
 title: Mobile Blazor bindings
 image: '/images/blazor-ready.jpg'
-date: 2023-03-13T08:43:22+02:00
+date: 2023-02-19
 authors: [thierry]
 description: Blazor is a Web UI framework based on .Net and C# instead of JavaScript. As you know .Net has a great support for building server rendered web apps for a long time with Asp.Net and Asp.Net Core. But previously if you wanted to do anything in the browser that meant writing some JavaScript. Blazor enables you to add client-side functionality and interactivity to your Asp.Net Core web apps using just .Net. No JavaScript required.
 tags: [Blazor]
-featured: true
+featured: false
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Advantages of coding with Blazor
 image: '/images/blazor-coding.png'
-date: 2023-03-13T08:43:22+02:00
+date: 2023-01-06
 authors: [thierry]
 description: Blazor is an open-source web framework for building single-page applications (SPAs) using C# and .NET.
 tags: [Blazor]

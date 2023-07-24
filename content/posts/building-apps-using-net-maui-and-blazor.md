@@ -1,10 +1,10 @@
 ---
 title: Building Apps Using Net Maui and Blazor
 image: '/images/dotnet-maui.png'
-date: 2023-03-13T08:43:22+02:00
+date: 2023-03-20
 authors: [thierry]
 description: .Net MAUI will introduce a new Hybrid approach to building apps, similar to what you can do with Electron, but with .NET
-tags: [DotNet]
+tags: [Blazor]
 featured: true
 draft: false
 ---
