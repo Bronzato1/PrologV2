@@ -144,7 +144,7 @@ paginate = 12
     enable = true
     mailchimp__title = "Get interesting news"
     mailchimp__description = "Subscribe to my newsletter and I’ll send you the emails of latest posts."
-    mailchimp__identifier = "frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" 
+    mailchimp__identifier = "skynet.us14.list-manage.com/subscribe/post?u=ac4365a7c821c0a59702c9c8d&amp;id=39595d208d&amp;f_id=00a586e0f0" 
     # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
     mailchimp__input__text = "Your email address"
     mailchimp__button__text = "Subscribe"
