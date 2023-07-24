@@ -25,6 +25,9 @@
         {{ if .Params.instagram }}
           <a class="author__social__item" href="{{ .Params.instagram }}" target="_blank" rel="noopener" aria-label="Instagram link"><i class="ion ion-logo-instagram"></i> Instagram</a>
         {{ end }}
+	{{ if .Params.github }}
+          <a class="author__social__item" href="{{ .Params.github }}" target="_blank" rel="noopener" aria-label="GitHub link"><i class="ion ion-logo-github"></i> GitHub</a>
+        {{ end }}
       </div>
 
       {{ .Content }}
