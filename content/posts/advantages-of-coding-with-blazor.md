@@ -6,7 +6,7 @@ authors: [thierry]
 description: Blazor is an open-source web framework for building single-page applications (SPAs) using C# and .NET.
 tags: [Blazor]
 featured: true
-draft: true
+draft: false
 ---
 Here are some of the key advantages of coding with Blazor:
 - Full-stack development: Blazor allows developers to build both the front-end and back-end of an application using C#, eliminating the need to switch between different programming languages and reducing the complexity of full-stack development.

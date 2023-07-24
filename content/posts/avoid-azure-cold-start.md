@@ -6,7 +6,7 @@ authors: [thierry]
 description: The best way to avoid it, is to keep it warm by pinging a health endpoint through Azure Monitor. First things first. What is a health endpoint? This is an extra API endpoint that can be interrogated any time. The implementation of the endpoint can vary from scenario to scenario.
 tags: [Azure]
 featured: true
-draft: true
+draft: false
 ---
 
 The simplest solution is just returning an HTTP 200. Does this have value? Definitely! If you ping the health endpoint and it returns an HTTP 200, this means that:

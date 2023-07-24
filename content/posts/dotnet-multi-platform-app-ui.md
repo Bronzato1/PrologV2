@@ -6,7 +6,7 @@ authors: [thierry]
 description: MAUI means Multi-Platform App UI which is an open-source cross-platform framework. We can develop and build native Android, iOS, macOS, and Windows applications from a single code base using MAUI. This is an evolution of Xamarin.Forms, which extended from Mobile to Desktop application. If you are already worked on Xamarin.Forms, you can easily relate .NET MAUI.
 tags: [DotNet]
 featured: true
-draft: true
+draft: false
 ---
 
 ## MAUI vs Xamarin Forms

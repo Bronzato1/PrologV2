@@ -6,7 +6,7 @@ authors: [thierry]
 description: Okta is a leading provider of identity and access management solutions for organizations. It helps companies securely manage the access of employees, contractors, partners, and customers to the applications and services they need. 
 tags: [Okta]
 featured: true
-draft: true
+draft: false
 ---
 Okta's solutions are cloud-based and provide a unified platform for identity and access management across multiple systems and platforms. This enables organizations to streamline their security and access controls, ensuring that only the right people have access to sensitive data and applications.
 

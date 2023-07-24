@@ -6,7 +6,7 @@ authors: [thierry]
 description: Being online and with a cell phone with our hands is so easy that often we don’t even stop to think about what kind of technology is helping us run this or that app. Usually, that’s not a problem – we don’t think about the electricity when we turn on the lights. However, when you face the decision to create an app for your business, then it’s conducive to understand what does SPA (single page application) means and how is it different from Multi-Page Applications (MPA).
 tags: [Blazor]
 featured: true
-draft: true
+draft: false
 ---
 
 Let's talk about what is Single Page Application (SPA), what benefits does SPA bring to users and businesses, how does it work with SEO, what are its pros and cons, and finally how SPA works with such technologies as Blazor, Angular, React.js, and Vue.js.

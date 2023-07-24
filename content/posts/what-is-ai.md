@@ -6,7 +6,7 @@ authors: [thierry]
 description: Artificial Intelligence (AI) refers to the ability of computers and machines to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. The development of AI technology has been driven by advancements in computer processing power, data storage and the availability of large datasets for training machine learning models. This has led to significant progress in various AI subfields, including computer vision, natural language processing, and robotics.
 tags: [AI]
 featured: true
-draft: true
+draft: false
 ---
 
 One of the most significant applications of AI is in the field of machine learning, which involves the use of algorithms and statistical models to enable computers to make predictions or decisions based on data. This has led to the creation of practical AI systems that can be used in various industries, including healthcare, finance, retail, and transportation.

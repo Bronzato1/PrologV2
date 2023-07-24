@@ -6,7 +6,7 @@ authors: [thierry]
 description: Blazor is a Web UI framework based on .Net and C# instead of JavaScript. As you know .Net has a great support for building server rendered web apps for a long time with Asp.Net and Asp.Net Core. But previously if you wanted to do anything in the browser that meant writing some JavaScript. Blazor enables you to add client-side functionality and interactivity to your Asp.Net Core web apps using just .Net. No JavaScript required.
 tags: [Blazor]
 featured: true
-draft: true
+draft: false
 ---
 
 With Blazor you can use your existing .Net skills and code to do full stack web development. Blazor is based purely on open web standards and works in any modern web browser. No browser plugins required. Blazor is part of Asp.Net Core your modern web framework for .Net. Asp.Net Core comes with everything you need to build beautiful web UI and powerful backend services. The addition of Blazor to Asp.Net Core expands the reach of your .Net web apps to the client. There is no need to rewrite your existing Asp.Net Core apps to take advantage of Blazor. You can add Blazor components to your existing apps while preserving existing functionalities. Getting started with Blazor is super easy. You just go to blazor.net and install the latest .Net SDK. You can then develop on the platform of your choice using Visual Studio, Visual Studio for Mac or Visual Studio Code.

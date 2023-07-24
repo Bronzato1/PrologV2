@@ -6,7 +6,7 @@ authors: [thierry]
 description: Share your website with the world for free! GitHub is a great tool to store projects and to collaborate with others, but its usefulness does not stop there. We’ll use a service called GitHub Pages to share our web page creations on the World Wide Web.
 tags: [GitHub]
 featured: true
-draft: true
+draft: false
 ---
 
 ## What is GitHub Pages ?
