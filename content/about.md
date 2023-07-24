@@ -1,6 +1,6 @@
 ---
 title: About me
-image: /images/thierry-1080.png
+image: /images/thierry-1080.jpg
 date: 2023-07-18T15:38:58+02:00
 draft: false
 toc: true

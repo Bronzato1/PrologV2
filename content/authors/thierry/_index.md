@@ -1,6 +1,6 @@
 ---
 name: Thierry Langie
-image: '/images/thierry-670.png'
+image: '/images/thierry-670.jpg'
 location:
 website:
 twitter: https://twitter.com/thierry_langie
