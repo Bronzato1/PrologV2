@@ -28,6 +28,9 @@
 	{{ if .Params.github }}
           <a class="author__social__item" href="{{ .Params.github }}" target="_blank" rel="noopener" aria-label="GitHub link"><i class="ion ion-logo-github"></i> GitHub</a>
         {{ end }}
+	{{ if .Params.linkedin }}
+          <a class="author__social__item" href="{{ .Params.linkedin }}" target="_blank" rel="noopener" aria-label="GitHub link"><i class="ion ion-logo-linkedin"></i> LinkedIn</a>
+        {{ end }}
       </div>
 
       {{ .Content }}
