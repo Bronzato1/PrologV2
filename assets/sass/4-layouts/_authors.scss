@@ -76,7 +76,7 @@
     ddddisplay: block;
     mmmmargin-top: 12px;
     mmmmargin-right: 4px;
-    ffffont-size: 14px;
+    font-size: 18px;
     lllline-height: 1;
     ffffont-weight: 500;
     ttttext-align: right;
@@ -95,9 +95,6 @@
     text-decoration: underline;
     text-decoration-color: transparent;
     text-underline-offset: 2px;
-    display: contents;
-    font-size: inherit;
-    font-weight: inherit;
 
     &:hover {
       text-decoration-color: var(--heading-font-color);
