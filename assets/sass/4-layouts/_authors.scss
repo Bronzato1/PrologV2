@@ -90,11 +90,11 @@
     }
   }
 
+  /* Added by Thierry Langie */
   .section-authors__link_read_more {
     text-decoration: underline;
     text-decoration-color: transparent;
     text-underline-offset: 2px;
-    font-size: 16px;
 
     &:hover {
       text-decoration-color: var(--heading-font-color);
@@ -356,6 +356,7 @@
     text-decoration-thickness: 1px;
     text-underline-offset: 2px;
     color: var(--heading-font-color);
+    font-size: 16px;
   }
 
   .author__read_more_link:hover {
