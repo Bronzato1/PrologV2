@@ -338,14 +338,13 @@
   }
 
   /* Added by Thierry Langie */
-  .author__linkk {  
+  .author__link {  
     display: inline-block;
     text-decoration: underline;
     text-decoration-color: transparent;
     text-decoration-thickness: 1px;
     text-underline-offset: 2px;
     color: var(--heading-font-color);
-    font-size: 18px;
   }
 
   .author__link:hover {
