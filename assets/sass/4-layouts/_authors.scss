@@ -345,7 +345,7 @@
     text-decoration-thickness: 1px;
     text-underline-offset: 2px;
     color: var(--heading-font-color);
-    font-size: 36px;
+    font-size: inherit;
   }
 
   .author__link:hover {
