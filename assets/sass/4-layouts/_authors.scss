@@ -73,13 +73,7 @@
   }
 
   .section-authors__link {
-    ddddisplay: block;
-    mmmmargin-top: 12px;
-    mmmmargin-right: 4px;
-    font-size: 28px;
-    lllline-height: 1;
-    ffffont-weight: 500;
-    ttttext-align: right;
+    ffffont-size: 18px;
     text-decoration: underline;
     text-decoration-color: transparent;
     text-decoration-thickness: 1px;
@@ -128,9 +122,9 @@
       }
     }
 
-    .section-authors__link {
+   /* .section-authors__link {
       font-size: 12px;
-    }
+    } */
   }
 
   @media (max-width: $mobile) {
