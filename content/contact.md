@@ -3,4 +3,4 @@ layout: contact
 title: Contact
 image: '/images/contact-me.jpg'
 ---
-Danto comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+Hello! Thank you for visiting me. If you have any questions or comments, please feel free to reach out to me using the form below. I'll do my best to get back to you as soon as possible.

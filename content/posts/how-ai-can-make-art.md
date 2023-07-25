@@ -1,11 +1,13 @@
 ---
-title: "How Ai Can Make Art ?"
-description: Art is one of the most expressive and creative forms of human activity, but can it be replicated or enhanced by artificial intelligence? In recent years, advances in AI have enabled the development of various tools and technologies that can generate visual artwork, such as paintings, illustrations, or photos, from word prompts or other inputs. These AI art generators have opened up new possibilities for artistic expression and innovation, but also raised some ethical and aesthetic questions. In this blog post, we will explore what AI art generation is, how it works, what are some of the best AI art generators available, and what are some of the pros and cons of using them.
+title: "How AI Can Make Art ?"
+description: Art is one of the most expressive and creative forms of human activity, but can it be replicated or enhanced by artificial intelligence? In recent years, advances in AI have enabled the development of various tools and technologies that can generate visual artwork, such as paintings, illustrations, or photos, from word prompts or other inputs.
 date: 2023-07-20
 image: "/images/ai-art.jpg"
 authors: [thierry]
 tags: [AI]
 ---
+
+AI art generators have opened up new possibilities for artistic expression and innovation, but also raised some ethical and aesthetic questions. In this blog post, we will explore what AI art generation is, how it works, what are some of the best AI art generators available, and what are some of the pros and cons of using them.
 
 ## What Is AI Art Generation?
 

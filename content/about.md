@@ -61,7 +61,7 @@ Now belongs to group Kraft Foods which is an American food manufacturing.
 
 ### Coca Cola
 
-American multinational beverage corporation incorporated under Delaware's General Corporation Law[a] and headquartered in Atlanta, Georgia. The Coca-Cola Company has interests in the manufacturing, retailing, and marketing of nonalcoholic beverage concentrates and syrups. The company produces Coca-Cola, invented in 1886 by pharmacist John Stith Pemberton.
+American multinational beverage corporation incorporated under Delaware's General Corporation Law and headquartered in Atlanta, Georgia. The Coca-Cola Company has interests in the manufacturing, retailing, and marketing of nonalcoholic beverage concentrates and syrups. The company produces Coca-Cola, invented in 1886 by pharmacist John Stith Pemberton.
 
 **1998**
 
