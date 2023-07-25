@@ -91,10 +91,13 @@
   }
 
   /* Added by Thierry Langie */
-  .section-authors__link_read_more {
+  .section-authors__link {
     text-decoration: underline;
     text-decoration-color: transparent;
     text-underline-offset: 2px;
+    display: contents;
+    font-size: inherit;
+    font-weight: inherit;
 
     &:hover {
       text-decoration-color: var(--heading-font-color);
@@ -349,7 +352,7 @@
   }
 
   /* Added by Thierry Langie */
-  .author__read_more_link {  
+  .author__link {  
     display: inline-block;
     text-decoration: underline;
     text-decoration-color: transparent;
@@ -359,7 +362,7 @@
     font-size: 16px;
   }
 
-  .author__read_more_link:hover {
+  .author__link:hover {
     text-decoration-color: var(--heading-font-color);
   }
 
