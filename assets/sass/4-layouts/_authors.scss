@@ -339,7 +339,6 @@
 
   /* Added by Thierry Langie */
   .author__link {  
-    display: inline-block;
     text-decoration: underline;
     text-decoration-color: transparent;
     text-decoration-thickness: 1px;
@@ -377,6 +376,10 @@
         margin-bottom: 6px;
         font-size: 14px;
       }
+    }
+
+    .author__link {
+      font-size: 16px;
     }
   }
 }
