@@ -73,7 +73,6 @@
   }
 
   .section-authors__link {
-    ffffont-size: 18px;
     text-decoration: underline;
     text-decoration-color: transparent;
     text-decoration-thickness: 1px;
@@ -121,10 +120,6 @@
         margin-right: -50px;
       }
     }
-
-   /* .section-authors__link {
-      font-size: 12px;
-    } */
   }
 
   @media (max-width: $mobile) {
@@ -350,7 +345,7 @@
     text-decoration-thickness: 1px;
     text-underline-offset: 2px;
     color: var(--heading-font-color);
-    font-size: 16px;
+    font-size: 36px;
   }
 
   .author__link:hover {
