@@ -2,7 +2,7 @@
 title: "Why You Should Choose Azure Services for your cloud computing needs ?"
 description: Cloud computing is the future of IT, and if you are looking for a reliable, secure, and innovative cloud platform, you should consider Azure services. Azure is Microsoft's cloud computing platform that offers a wide range of products and solutions for various scenarios and needs. In this blog post, we will explore some of the benefits of using Azure services for your cloud computing needs, and provide some examples of how you can use them to achieve your goals.
 date: 2023-07-21
-image: "/images/azure-services.jpg"
+image: "/images/why-you-should-choose-azure-services.png"
 authors: [thierry]
 tags: [Azure]
 ---

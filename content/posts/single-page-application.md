@@ -1,6 +1,6 @@
 ---
 title: Single Page Application
-image: '/images/spa.jpg'
+image: '/images/single-page-application.png'
 date: 2023-03-01
 authors: [thierry]
 description: Being online and with a cell phone with our hands is so easy that often we don’t even stop to think about what kind of technology is helping us run this or that app. Usually, that’s not a problem – we don’t think about the electricity when we turn on the lights. However, when you face the decision to create an app for your business, then it’s conducive to understand what does SPA (single page application) means and how is it different from Multi-Page Applications (MPA).

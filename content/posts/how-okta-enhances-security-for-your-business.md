@@ -1,6 +1,6 @@
 ---
 title: "How Okta Enhances Security for Your Business"
-image: '/images/okta-security.jpg'
+image: '/images/how-okta-enhances-security-for-your-business.png'
 date: 2023-07-24
 authors: [thierry]
 description: If you are looking for a reliable and secure identity and access management solution, you might want to consider Okta. Okta is the market-leading Identity Cloud provider that securely connects the right people to the right technologies at the right times. In this blog post, we will explore some of the benefits of using Okta for your business security.

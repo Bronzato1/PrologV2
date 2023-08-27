@@ -1,6 +1,6 @@
 ---
 title: Deploying to GitHub Pages
-image: '/images/github-repo.jpg'
+image: '/images/deploying-to-github-pages.png'
 date: 2023-04-27
 authors: [thierry]
 description: Share your website with the world for free! GitHub is a great tool to store projects and to collaborate with others, but its usefulness does not stop there. We’ll use a service called GitHub Pages to share our web page creations on the World Wide Web.

@@ -1,6 +1,6 @@
 ---
 title: "Dotnet Reliability With Azure"
-image: '/images/dotnet-code.jpg'
+image: '/images/dotnet-reliability-with-azure.png'
 date: 2023-07-23
 authors: [thierry]
 description: Microsoft .NET is a reliable and robust developer platform that supports Windows, macOS, and Linux operating systems.

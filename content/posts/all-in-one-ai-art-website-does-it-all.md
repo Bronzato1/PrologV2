@@ -2,7 +2,7 @@
 title: "All in One Ai Art Website Does It All"
 description: Getimg.ai is a tool for unleashing your creativity and bringing your ideas to life. With AI technology, you can generate original images at scale, using only text to describe what you want to see. 
 date: 2023-07-24
-image: "/images/ai-art-website.jpg"
+image: "/images/all-in-one-ai-art-website-does-it-all.png"
 video_embed: https://www.youtube.com/embed/0ngHFDe8ukY
 tags: [AI]
 ---

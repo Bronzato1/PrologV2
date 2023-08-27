@@ -2,7 +2,7 @@
 title: "The Future of Ai Powered Coding"
 description: Have you ever wished you had a smart assistant that could help you write code faster and better? If so, you might be interested in GitHub Copilot, a new AI-powered tool that can suggest code and entire functions in real-time, right from your editor. In this blog post, we will explore what GitHub Copilot is, how it works, and what it can do for you.
 date: 2023-07-24T14:53:28+02:00
-image: "/images/github-copilot.jpg"
+image: "/images/the-future-of-ai-powered-coding.png"
 tags: [GitHub]
 ---
 

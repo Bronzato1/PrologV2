@@ -1,6 +1,6 @@
 ---
 title: Key Benefits of Using Okta
-image: '/images/okta-verify.jpg'
+image: '/images/key-benefits-of-using-okta.png'
 date: 2023-05-15
 authors: [thierry]
 description: Okta is a leading provider of identity and access management solutions for organizations. It helps companies securely manage the access of employees, contractors, partners, and customers to the applications and services they need. 

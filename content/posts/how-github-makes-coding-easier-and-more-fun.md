@@ -2,7 +2,7 @@
 title: "How Github Makes Coding Easier and More Fun"
 description: If you are a developer, you probably have heard of GitHub, the world's leading platform for hosting and collaborating on code. GitHub is more than just a place to store your code online. It is also a powerful tool that can help you improve your coding skills, work on projects with others, and contribute to open source software. In this blog post, we will explore some of the features and benefits of using GitHub for your coding projects.
 date: 2023-07-18
-image: "/images/github-cat.jpg"
+image: "/images/how-github-makes-coding-easier-and-more-fun.png"
 tags: [GitHub]
 ---
 

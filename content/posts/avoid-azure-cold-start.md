@@ -1,6 +1,6 @@
 ---
 title: Avoid Azure cold start
-image: '/images/azure-readiness.jpg'
+image: '/images/avoid-azure-cold-start.png'
 date: 2023-02-24
 authors: [thierry]
 description: The best way to avoid it, is to keep it warm by pinging a health endpoint through Azure Monitor. First things first. What is a health endpoint? This is an extra API endpoint that can be interrogated any time. The implementation of the endpoint can vary from scenario to scenario.

@@ -2,7 +2,7 @@
 title: "How AI Can Make Art ?"
 description: Art is one of the most expressive and creative forms of human activity, but can it be replicated or enhanced by artificial intelligence? In recent years, advances in AI have enabled the development of various tools and technologies that can generate visual artwork, such as paintings, illustrations, or photos, from word prompts or other inputs.
 date: 2023-07-20
-image: "/images/ai-art.jpg"
+image: "/images/how-ai-can-make-art.png"
 authors: [thierry]
 tags: [AI]
 ---

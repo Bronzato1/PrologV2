@@ -2,7 +2,7 @@
 title: "Enhancing Developer Productivity With Dotnet and Hot Reload"
 description: In today's fast-paced software development landscape, ensuring high productivity and quick iteration cycles are essential for staying competitive. Microsoft's DotNet framework, combined with hot reload capabilities, has revolutionized the way developers write, test, and deploy code. In this blog post, we will delve into the powerful features of DotNet and discuss how hot reload accelerates developer productivity.
 date: 2023-07-22
-image: "/images/dotnet-productivity.jpg"
+image: "/images/enhancing-developer-productivity-with-dotnet-and-hot-reload.png"
 tags: [DotNet]
 ---
 ## Understanding DotNet

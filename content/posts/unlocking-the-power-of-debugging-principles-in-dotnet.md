@@ -2,7 +2,7 @@
 title: "Unlocking the Power of Debugging Principles in Dotnet"
 description: Debugging is an essential skill for every developer, regardless of their experience level. It enables us to identify and fix errors, optimize code performance, and gain a deep understanding of how our applications behave. In this blog post, we will explore some fundamental debugging principles in the DotNet framework, equipping developers with the knowledge required to efficiently troubleshoot and resolve issues.
 date: 2023-07-18
-image: "/images/dotnet-debugging.jpg"
+image: "/images/unlocking-the-power-of-debugging-principles-in-dotnet.png"
 tags: [DotNet]
 ---
 
